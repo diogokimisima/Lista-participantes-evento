@@ -9,27 +9,25 @@
 Este repositório contém os arquivos do projeto "Lista de Participantes de Evento", uma aplicação front-end em ReactJS. Esta aplicação permite listar participantes de um evento, realizar buscas, navegar pelas páginas da lista e visualizar detalhes de cada participante. O projeto foi desenvolvido utilizando conceitos de Propriedades, Estados e Componentes em ReactJS, tipagem com Typescript, ferramenta Vite para tooling e interface responsiva com TailwindCSS.
 
 📁 Estrutura do Projeto
-src/
-components/
-AttendeeList.tsx: Componente principal da aplicação.
-IconButton.tsx: Componente de botão de ícone.
-table/
-Table.tsx: Componente de tabela.
-table-header/
-TableHeader.tsx: Componente de cabeçalho da tabela.
-table-cell/
-TableCell.tsx: Componente de célula da tabela.
-table-row/
-TableRow.tsx: Componente de linha da tabela.
-data/
+
+components: 
+- AttendeeList.tsx: Componente principal da aplicação.
+- IconButton.tsx: Componente de botão de ícone.
+- Table.tsx: Componente de tabela.
+- TableHeader.tsx: Componente de cabeçalho da tabela.
+- TableCell.tsx: Componente de célula da tabela.
+- TableRow.tsx: Componente de linha da tabela.
+
+dados: 
 attendees.ts: Arquivo de dados simulados dos participantes do evento.
 App.tsx: Arquivo principal da aplicação.
 index.tsx: Arquivo de entrada da aplicação.
+
 🚀 Tecnologias Utilizadas
-ReactJS: Biblioteca JavaScript para construção de interfaces de usuário.
-Typescript: Superset JavaScript que adiciona tipagem estática ao código.
-Vite: Build tool para aplicações web modernas.
-TailwindCSS: Framework CSS utilitário para construção de interfaces responsivas.
+- ReactJS: Biblioteca JavaScript para construção de interfaces de usuário.
+- Typescript: Superset JavaScript que adiciona tipagem estática ao código.
+- Vite: Build tool para aplicações web modernas.
+- TailwindCSS: Framework CSS utilitário para construção de interfaces responsivas.
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
