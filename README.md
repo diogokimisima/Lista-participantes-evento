@@ -5,7 +5,7 @@
 🗔 Confira a aplicação: https://lista-participantes-evento.vercel.app <br>
 <img src="src/assets/desktop-lista-participantes.jpg" alt="print projeto" width="100%"/>
 
-:page_facing_up: Explicação
+:page_facing_up: Explicação:
 Este repositório contém os arquivos do projeto "Lista de Participantes de Evento", uma aplicação front-end em ReactJS. Esta aplicação permite listar participantes de um evento, realizar buscas, navegar pelas páginas da lista e visualizar detalhes de cada participante. O projeto foi desenvolvido utilizando conceitos de Propriedades, Estados e Componentes em ReactJS, tipagem com Typescript, ferramenta Vite para tooling e interface responsiva com TailwindCSS.
 
 📁 Estrutura do Projeto
